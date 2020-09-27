@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NgrxApp"
+    }
+  },
+  "defaultProject": "NgrxApp",
+  "cli": {
+    "analytics": false
+  }
 }
